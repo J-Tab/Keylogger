@@ -26,7 +26,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jemy_\PycharmProjects\Keylogger\venv\Scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jemy_\PycharmProjects\Keylogger" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,9 +55,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040/-1080.-504.1080.1880@0.0.1920.1040" timestamp="1606583276417" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1606583381613">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1606872591616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1080.-504.1080.1880@0.0.1920.1040" timestamp="1606583381613" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1080.-504.1080.1880@0.0.1920.1040" timestamp="1606872591616" />
   </component>
 </project>
